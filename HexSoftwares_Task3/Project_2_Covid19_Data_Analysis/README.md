@@ -134,11 +134,6 @@ Task_3/
 
 ---
 
-## 👨‍💻 Project
-
-Completed as part of the **Hex Softwares Data Science**.
-
-
 ## 👨‍💻 Author
 
 **Armi Sherathiya**  
