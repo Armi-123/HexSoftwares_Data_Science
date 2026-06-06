@@ -178,6 +178,7 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run dashboard/app.py
+streamlit run HexSoftwares_Task3/Project_3_YouTube_Data_Dashboard/dashboard/app.py
 ```
 
 ---
