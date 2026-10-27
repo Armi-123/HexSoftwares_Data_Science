@@ -214,7 +214,6 @@ Analyzed COVID-19 data to identify trends, patterns, and insights related to con
 * NumPy
 * Matplotlib
 * Seaborn
-
 ---
 
 ## 📂 Project 3: YouTube Data Dashboard with Streamlit
